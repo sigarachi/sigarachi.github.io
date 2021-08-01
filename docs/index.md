@@ -20,7 +20,7 @@ Free online school.
 
 #### Party Finder
 
-About soon.
+Soon.
 
 ### Contact with me
 
