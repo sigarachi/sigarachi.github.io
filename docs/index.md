@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## SigarachiDev
 
-You can use the [editor on GitHub](https://github.com/sigarachi/sigarachidev/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my personal Github page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
+I'm 20 years old student of NRNU MEPhi and I'm interested in web-development.
+You can checkout my projects lower.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### My projects 
 
-# Header 1
-## Header 2
-### Header 3
+#### [File sharing (Fullstack)]('https://github.com/file-sharing-erp-team/file-sharing') 
 
-- Bulleted
-- List
+Simple MERN stack app for requesting docs from students office of my university.
 
-1. Numbered
-2. List
+#### [Grand Core Openschool (Fullstack)]('https://github.com/grandcore/openschool') 
 
-**Bold** and _Italic_ and `Code` text
+Free online school. 
 
-[Link](url) and ![Image](src)
-```
+#### Party Finder
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+About soon.
 
-### Jekyll Themes
+### Contact with me
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sigarachi/sigarachidev/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Email: sigarachi@mail.ru
 
-### Support or Contact
+#### [VK]('https://vk.com/sigarachi') 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Telegram: @sigarachi
