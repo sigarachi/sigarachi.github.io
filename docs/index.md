@@ -10,11 +10,11 @@ You can checkout my projects lower.
 
 ### My projects 
 
-#### ![File sharing (Fullstack)]('https://github.com/file-sharing-erp-team/file-sharing') 
+#### [File sharing (Fullstack)](https://github.com/file-sharing-erp-team/file-sharing) 
 
 Simple MERN stack app for requesting docs from students office of my university.
 
-#### ![Grand Core Openschool (Fullstack)]('https://github.com/grandcore/openschool') 
+#### [Grand Core Openschool (Fullstack)](https://github.com/grandcore/openschool) 
 
 Free online school. 
 
@@ -26,6 +26,6 @@ About soon.
 
 #### Email: sigarachi@mail.ru
 
-#### ![VK]('https://vk.com/sigarachi') 
+#### [VK](https://vk.com/sigarachi) 
 
 #### Telegram: @sigarachi
